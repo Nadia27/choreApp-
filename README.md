@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> c32d5a35e9ad63e0de0ec133648418be2ac7f728
 # The Chore App-
 
 # The Purpose
